@@ -1,4 +1,7 @@
 # Rehberler
 
-Yerel Cihazınızda ChatGPT Çalıştırın!
-<br>[Okumak için tıklayın](https://github.com/KairaBegudiri/rehberler/blob/main/src/ollama-rehber.md)
+* Yerel Cihazınızda ChatGPT Çalıştırın!
+<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/ollama-rehber.md)
+
+* Linux Kullanımına Uygun Bilgisayar Toplama Rehberi
+<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/donan%C4%B1m-se%C3%A7me-rehberi.md)
