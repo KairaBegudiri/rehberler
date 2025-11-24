@@ -1,4 +1,4 @@
-Yerel bilgisayardan açık kaynaklı ChatGPT çalıştırma rehberi.
+# Yerel bilgisayardan açık kaynaklı ChatGPT çalıştırma rehberi.
 
 Minimum 10-12 GB VRAM'e sahip bir GPU kullanmanız şiddetle tavsiye edilir.
 
