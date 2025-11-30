@@ -10,4 +10,4 @@
 <br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/gentoo-indirme-rehberi.md)
 
 * Fedora'da Nvidia Driverlarını Kurmak
-* <br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/fedora-nvidia-rehberi.md)
+<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/fedora-nvidia-rehberi.md)
