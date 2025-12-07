@@ -1,4 +1,4 @@
-# Linux Uyumlu Donanım Seçim Rehberi (2025 Edisyonu)
+# Linux Uyumlu Donanım Seçim Rehberi 
 
 > **Yazar:** [Kayra](https://www.x.com/QMinun)
 
