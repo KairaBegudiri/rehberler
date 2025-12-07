@@ -71,10 +71,12 @@ Linux deneyiminizi (özellikle oyun alanında) doğrudan etkileyen en kritik bil
 
 Linux dünyasında en sorunsuz deneyimi sunar.
 
-- **Kurulum:** Genellikle ekstra bir sürücü kurulumu gerektirmez (Kernel
+- **Kurulum:**
+  > Genellikle ekstra bir sürücü kurulumu gerektirmez (Kernel
   > içinde gelir).
 
-- **Gerekli Paketler:** Modern kartlar için `amdgpu` paketinin yüklü
+- **Gerekli Paketler:**
+  > Modern kartlar için `amdgpu` paketinin yüklü
   > olduğundan emin olmanız yeterlidir.
 
 ### Intel Arc
@@ -185,15 +187,18 @@ doğrudan desteklenir:
 Donanımınızın ışıklandırmasını ve makrolarını yönetmek için Linux
 tarafındaki yazılım destekleri şöyledir:
 
-- **Corsair:** ckb-next yazılımı ile tam kontrol sağlanabilir 
+- **Corsair:**
+  > `ckb-next` yazılımı ile tam kontrol sağlanabilir, bu paket hemen hemen her dağıtımın repolarında bulunmaktadır. 
   > (Gentoo kullanıcıları için paket adı: ckb).
 
-- **Razer:** [OpenRazer](https://openrazer.github.io/)
+- **Razer:**
+  > [OpenRazer](https://openrazer.github.io/)
   > projesi ile geniş kapsamlı destek sunulmaktadır.
 
-- **Rampage:** **Uzak durulması önerilir.** Monitörleri haricinde,
+- **Rampage:**
+  > **Uzak durulması önerilir.** Monitörleri haricinde,
   > klavye/fare gibi bileşenleri Linux tarafında yazılım desteği
-  > sunmamaktadır (23 Kasım 2025 itibarıyla).
+  > sunmamaktadır (23 Kasım 2025 itibariyle).
 
 ## Özet Tavsiyeler
 
