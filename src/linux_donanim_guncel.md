@@ -1,6 +1,6 @@
 # Linux Uyumlu Donanım Seçim Rehberi (2025 Edisyonu)
 
-> **Hazırlayan:** [[Kayra]{.underline}](https://www.x.com/QMinun)
+> **Yazar:** [Kayra](https://www.x.com/QMinun)
 
 ## Giriş ve Amaç
 
