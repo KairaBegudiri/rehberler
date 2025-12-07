@@ -28,7 +28,8 @@ etmeniz gereken bazı nüanslar bulunmaktadır.
 
 ### Genel Bakış
 
-- **Intel & AMD:** Her iki üreticinin işlemcileri de Linux tarafında
+- **Intel & AMD:**
+  > Her iki üreticinin işlemcileri de Linux tarafında
   > yüksek uyumlulukla çalışır. Standart bir ev veya ofis kullanıcısı
   > için marka tercihi, işletim sistemi uyumluluğunu etkilemez.
 
@@ -118,29 +119,29 @@ RTX 5000 serisi ve modern sürücülerle odağını bu alana çevirmiştir.
 <tr class="odd">
 <th><strong>Tam Destek</strong></th>
 <th>Ana depolarda v580+ sürücü mevcut</th>
-<th><p>• Fedora</p>
-<p>• Arch Linux (Manjaro dahil)</p>
-<p>• Ubuntu (Mint, Kubuntu, ZorinOS)</p>
-<p>• Debian + Nvidia Cuda (Pardus vb.)</p>
-<p>• NixOS</p>
-<p>• Void Linux</p></th>
+<th><p>Fedora</p>
+<p>Arch Linux (Manjaro dahil)</p>
+<p>Ubuntu (Mint, Kubuntu, ZorinOS)</p>
+<p>Debian + Nvidia Cuda (Pardus vb.)</p>
+<p>NixOS</p>
+<p>Void Linux</p></th>
 </tr>
 <tr class="header">
 <th><strong>Test Aşaması</strong></th>
 <th>Testing depolarında v580+ mevcut</th>
-<th>• Gentoo</th>
+<th>Gentoo</th>
 </tr>
 <tr class="odd">
 <th><strong>Destek Yok</strong></th>
 <th>Depolarda güncel sürücü yok</th>
-<th><p>• Debian (LMDE, MXLinux, Antix)</p>
-<p>• PCLinuxOS</p></th>
+<th><p>Debian (LMDE, MXLinux, Antix)</p>
+<p>PCLinuxOS</p></th>
 </tr>
 <tr class="header">
 <th><strong>Sürücü Yok</strong></th>
 <th>Nvidia sürücüsü dağıtılmıyor</th>
-<th><p>• Alpine Linux</p>
-<p>• Chimera Linux</p></th>
+<th><p>Alpine Linux</p>
+<p>Chimera Linux</p></th>
 </tr>
 </thead>
 <tbody>
