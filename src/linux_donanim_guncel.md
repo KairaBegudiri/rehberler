@@ -64,7 +64,7 @@ ARM tabanlı işlemciler masaüstü dünyasında henüz gelişme aşamasındadı
   > cihazı gibi atılımlar, ARM üzerinde oyunculuğun ve masaüstü
   > deneyiminin hızla gelişeceğini işaret etmektedir.
 
-## 2. Ekran Kartı (GPU) Seçimi {#ekran-kartı-gpu-seçimi}
+## 2. Ekran Kartı (GPU) Seçimi
 
 Linux deneyiminizi (özellikle oyun alanında) doğrudan etkileyen en kritik bileşen ekran kartıdır.
 
