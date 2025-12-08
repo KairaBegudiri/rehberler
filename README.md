@@ -13,3 +13,4 @@
 <br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/fedora-nvidia-rehberi.md)
 
 * Format atmadan Fedora sürüm yükseltme rehberi
+<br>[Okumak için Tıkla!](github.com/KairaBegudiri/rehberler/blob/main/src/fedora-yukseltme-rehberi.md)
