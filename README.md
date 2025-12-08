@@ -11,3 +11,5 @@
 
 * Fedora'da Nvidia Driverlarını Kurmak
 <br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/fedora-nvidia-rehberi.md)
+
+* Format atmadan Fedora sürüm yükseltme rehberi
