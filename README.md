@@ -17,3 +17,6 @@ Fedora sisteminizi yükseltme rehberi
 
 ## Japonca Yazma Rehberi [Geliştiriliyor]
 [Rehberi Okuyun](https://github.com/KairaBegudiri/rehberler/blob/main/src/japonca_yazma.md)
+
+# Düzenlenecek Rehberler:
+[Gentoo Kurulum Rehberi](https://github.com/KairaBegudiri/rehberler/blob/main/src/gentoo-indirme-rehberi.md)
