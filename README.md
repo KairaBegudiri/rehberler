@@ -1,16 +1,19 @@
 # Rehberler
 
-* Yerel Cihazınızda ChatGPT Çalıştırın!
-<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/ollama-rehber.md)
+## Linux Uyumlu Donanım Seçme Rehberi
+Tamamen Linux uyumlu bir cihaz toplamak istiyorsunuz ve hangi donanımlara yönelmeniz gerektiği konusunda kararsız mısınız? Donanım seçme rehberimize göz atabilirsiniz!
+[Rehberi Okuyun](https://linuxturkey.kavakci.dev/rehberler/linux_uyumlu_donanim.html)
 
-* Linux Kullanımına Uygun Bilgisayar Toplama Rehberi
-<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/donan%C4%B1m-se%C3%A7me-rehberi.md)
+## Yerel Cihazınızda ChatGPT Çalıştırın!
+Local AI araçları ile ChatGPT'nin resmi açık kaynaklı versiyonunu yerel cihazınızda çalıştırma rehberi
+[Rehberi Okuyun](https://github.com/KairaBegudiri/rehberler/blob/main/src/ollama-rehber.md)
 
-* Gentoo Kurulum Rehberi
-<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/gentoo-indirme-rehberi.md)
+## Fedora Sisteminizi Yükseltin
+Fedora sisteminizi yükseltme rehberi
+[Rehberi Okuyun](https://linuxturkey.kavakci.dev/rehberler/fedora-yukseltme-rehberi.html)
 
-* Fedora'da Nvidia Driverlarını Kurmak
-<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/fedora-nvidia-rehberi.md)
+## Fedora Sisteminize Nvidia Sürücüleri Kurulum Rehberi
+[Rehberi Okuyun](https://linuxturkey.kavakci.dev/rehberler/fedora-nvidia-akmod-rehberi.html)
 
-* Format atmadan Fedora sürüm yükseltme rehberi
-<br>[Okumak için Tıkla!](https://github.com/KairaBegudiri/rehberler/blob/main/src/fedora-yukseltme-rehberi.md)
+## Japonca Yazma Rehberi [Geliştiriliyor]
+[Rehberi Okuyun](https://github.com/KairaBegudiri/rehberler/blob/main/src/japonca_yazma.md)
