@@ -67,7 +67,11 @@ Fedora’da eksik olan ve özellikle oyunlar açısından önemli olan bazı bil
 [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Red Hat'in Linux dağıtımıdır. Sunucuları ve iş istasyonlarını hedefler. RPM bağımlılık sistemini kullandığından ve bu son derece yaygın olduğundan epey geniş bir uygulama yelpazesine sahiptir. Alternatif olarak Fedora için de bu dediklerimiz geçerli olacaktır
 
 ### Ubuntu Server/Desktop
-Nvidia, geçtiğimiz günlerde Asus işbirliği ile kendi Linux dağıtımını yaptı. Bu dağıtım, Ubuntu'nun bir çatalı olarak yapılmıştı. Ayrıca, varsayılan Ubuntu için de epey destek sunuluyor. Ubuntu, yapay zeka kullanımı ve eğitimi için gerekli tüm paketlerin dağıtımını sağlıyor ve sektörde bir standard haline gelmiş durumda.
+Ubuntu, yapay zeka araçları için kendi paket yöneticisinde en geniş uygulama yelpazesine sahip işletim sistemidir. Ubuntu, bu alanda sektörde bir standard haline gelmiş durumda.
+
+!!! Note "Ubuntu"
+
+    Nvidia, geçtiğimiz günlerde Asus işbirliği ile kendi Linux dağıtımını yaptı. Bu dağıtım, Ubuntu'nun bir çatalı olarak yapıldı. 
 
 !!! Note "Alternatif"
 
